@@ -2,6 +2,7 @@ serverspec examples
 ===
 ---
 
+This repo relies on Serverspec ~> 2.0.0.  For Serverspec v1 or RSpec 2 support, see branch serverspec_v1
 
 [serverspec](https://github.com/serverspec/serverspec) is awesome  
 ---
