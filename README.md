@@ -2,6 +2,8 @@ serverspec examples
 ===
 ---
 
+This branch, serverspec_v1 only works with Serverspec v1. Serverspec v1 uses RSpec 2.
+
 
 [serverspec](https://github.com/serverspec/serverspec) is awesome  
 ---
